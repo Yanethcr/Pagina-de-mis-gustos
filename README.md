@@ -4,7 +4,7 @@ Este proyecto es una página web acerca de mis gustos personales para seguir pra
 
 Fue desarrollada con HTML,CSS y bootstrap
 
-![Proyecto Desplegado()](https://pagina-de-mis-gustos-uvxx.vercel.app/)
+[Proyecto Desplegado(https://pagina-de-mis-gustos-uvxx.vercel.app/)](https://pagina-de-mis-gustos-uvxx.vercel.app/)
 
 
 ## Secciones de mi sitio 
