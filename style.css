@@ -1,5 +1,21 @@
+ #presentacion {
+     height: 88vh;
+     display: flex;
+     justify-content: start;
+     align-items: center;
+
+     background-image: url("imgpag/fondo.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+
+
+ }
+
+
+
  .navbar {
-     background-color: #9652c4;
+     background-color: #990505;
      color: #ffffff;
  }
 
@@ -9,4 +25,71 @@
 
  .navbar ul li a {
      color: #ffffff;
+ }
+
+ body {
+     background-color: #aa4646d5;
+ }
+
+ .series {
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: contain;
+
+
+ }
+
+ .series h3 {
+     color: rgb(255, 196, 68);
+     text-shadow: black;
+ }
+
+
+ #s1 {
+     background-image: url('imgpag/gilmore.jpg');
+ }
+
+ #s2 {
+     background-image: url('imgpag/juju.jpg');
+ }
+
+ #s3 {
+     background-image: url('imgpag/itawon.jpg');
+ }
+
+ #s4 {
+     background-image: url('imgpag/flash.jpg');
+ }
+
+ #s5 {
+     background-image: url('imgpag/haikyyu.jpeg');
+ }
+
+ #s6 {
+     background-image: url('imgpag/100.jpg');
+ }
+
+ #s7 {
+     background-image: url('imgpag/nanatsu.jpg');
+ }
+
+ #s8 {
+     background-image: url('imgpag/mejoresqn.jpg');
+ }
+
+ #s9 {
+     background-image: url('imgpag/seri.png');
+ }
+
+ #s10 {
+     background-image: url('imgpag/Vincenzo.jpg');
+ }
+
+ #s11 {
+     background-image: url('imgpag/tomorrow.jpg');
+ }
+
+ #s12 {
+     background-image: url('imgpag/violet.jpg');
+
  }
