@@ -8,7 +8,10 @@ Fue desarrollada con HTML,CSS y bootstrap
 
 ## Secciones de mi sitio 
 
-![Presentación]()
+![Presentación](imgpag/readme/f1.png)
+![Presentación](imgpag/readme/f2.png)
+![Presentación](imgpag/readme/f3.png)
+![Presentación](imgpag/readme/f4.png)
 
 ## Tecnologias 
 
